@@ -37,7 +37,9 @@ Este projeto visa desenvolver uma aplicação para Processamento Digital de Sina
 
 * **Forma de Onda (Senoide original):**
 <img width="1500" height="700" alt="senoide_original" src="https://github.com/user-attachments/assets/26741406-5636-4ca5-bda8-f0a5a7df54ca" />
+
 * **Forma de Onda (Hard Clipping):**
 <img width="1500" height="700" alt="hardclipping_eff" src="https://github.com/user-attachments/assets/eac13af0-1de4-4e30-b15b-c79f9409c9b5" />
+
 * **Forma de Onda (Bitcrusher):**
 <img width="1500" height="700" alt="Bitcrusher" src="https://github.com/user-attachments/assets/9901e03f-a7a5-41ce-bd61-297ef69b9d7f" />
